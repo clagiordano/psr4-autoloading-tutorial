@@ -6,6 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Topic' => $baseDir . '/app/models/Topic.php',
-    'User' => $baseDir . '/app/models/User.php',
+    'Codecourse\\Repositories\\UserRepository' => $baseDir . '/app/Codecourse/Repositories/UserRepository.php',
 );

@@ -1,6 +1,8 @@
 <?php
 
-class User
+namespace Codecourse\Repositories;
+
+class UserRepository 
 {
     public function __construct()
     {
