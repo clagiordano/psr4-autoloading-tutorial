@@ -17,5 +17,5 @@ Migration from require to composer.json + require_once vendor/autoload
 ## Step 3 *(commit 3176e30)*: ##
 Add another sample class and regen autoload
 
-## Step 4 *(commit )*: ##
+## Step 4 *(commit 6cb36ae)*: ##
 Migration from require / basic autoload to PSR-4 autoload with namespace
