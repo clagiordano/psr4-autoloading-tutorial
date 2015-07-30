@@ -1,6 +1,6 @@
 # Tutorial for PHP PRS-4 autoloading #
 
-*Based on **Codecourse's** video tutorial **PHP PSR-4 Autoloading Made Easy**: https://youtu.be/VGSerlMoIrY*
+Based on **Codecourse**'s video tutorial **PHP PSR-4 Autoloading Made Easy**: https://youtu.be/VGSerlMoIrY
 
 # Description:
 
